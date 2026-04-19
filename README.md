@@ -1,6 +1,4 @@
 # 🚀 DACHAIN GOD-LEVEL BOT
-> **V2.8 | Ultimate P2P Loop Edition** > *Automate DAC Inception Testnet like a Pro.*
-
 ---
 
 ## ✨ Overview
