@@ -1,0 +1,5 @@
+node_modules/
+pk.txt
+state.json
+bot.log
+.env
