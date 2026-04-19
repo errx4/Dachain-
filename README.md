@@ -1,7 +1,7 @@
 # 🚀 DACHAIN AUTO BOT
 
 
-DACHAIN GOD-LEVEL BOT is a high-performance automation script specifically engineered for the **DAC Inception Testnet**. It features a sophisticated **Smart P2P Engine** that automates transactions between your own multiple wallets to seamlessly unlock "Distinct Wallet" badges and maximize your Quantum Energy (QE) points.
+DACHAIN AUTO BOT is a high-performance automation script.
 
 ---
 
