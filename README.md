@@ -27,5 +27,5 @@ cd Dachain-
 
 ```
 2. Install Dependencies
-   ```bash
-   npm start
+```bash
+npm start
