@@ -24,3 +24,7 @@ Copy and paste these commands into your terminal to get started:
 ```bash
 git clone [https://github.com/errx4/Dachain-](https://github.com/errx4/Dachain-)
 cd Dachain-
+
+### 2. Install Dependencies
+```bash
+npm start 
